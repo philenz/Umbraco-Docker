@@ -12,5 +12,8 @@
 * [Docker base Windows OS images](https://hub.docker.com/_/microsoft-windows-base-os-images)
 * [Announcing .NET core 3.0](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-0/)
 
+## Vista Digital
+* Code cloned locally to ~/src/Vista/Digital.Odeon from [TFS](ssh://tfs:22/tfs/Vista/Vista.Digital/_git/Vista.Digital.Odeon)
+
 
 
